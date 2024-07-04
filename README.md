@@ -21,4 +21,11 @@ Here are some of the technologies and tools I work with:
 Feel free to reach out to me via [GitHub Issues](https://github.com/EntomaVasilissaZeta).
 
 Thanks For Reading, Have A Nice Morning/Afternoon/Night!
+
+## Links
+
+[**Replit**](https://replit.com/@EntomaVasilissa)
+[**Discord Server**](https://discord.gg/YbjCe7fVdJ)
+
+
 # __I MADE THIS IN LIKE 3 MINUTES DONT JUDGE!!!__
