@@ -24,7 +24,9 @@
 
 > - [**Replit**](https://replit.com/@EntomaVasilissa)
 
-> - [**Discord Server**](https://discord.gg/YbjCe7fVdJ)
+> - [**![Discord]**(![image](https://github.com/EntomaVasilissaZeta/EntomaVasilissaZeta/assets/174663164/839e547b-e0d3-4b18-8f64-17e72418b2e1)
+)
+
 
 
 # Thanks For Reading, Have A Nice Morning/Afternoon/Night!
