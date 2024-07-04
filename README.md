@@ -1,5 +1,5 @@
 ## About Me
-- **Pronouns:** She/her.
+>>> - **Pronouns:** She/her.
 - **Age:** 15.
 - **Learning:** Node.js[javascript]
 - **Hobbies:** I code Discord SelfBots for fun.
@@ -24,8 +24,9 @@ Thanks For Reading, Have A Nice Morning/Afternoon/Night!
 
 ## Links
 
-[**Replit**](https://replit.com/@EntomaVasilissa)
-[**Discord Server**](https://discord.gg/YbjCe7fVdJ)
+- [**Replit**](https://replit.com/@EntomaVasilissa)
+
+- [**Discord Server**](https://discord.gg/YbjCe7fVdJ)
 
 
 # __I MADE THIS IN LIKE 3 MINUTES DONT JUDGE!!!__
