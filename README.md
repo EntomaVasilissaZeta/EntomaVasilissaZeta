@@ -24,7 +24,9 @@
 
 > - [**Replit**](https://replit.com/@EntomaVasilissa)
 
-> - [**![Discord]**(![image](https://github.com/EntomaVasilissaZeta/EntomaVasilissaZeta/assets/174663164/839e547b-e0d3-4b18-8f64-17e72418b2e1)
+> - <a href="https://discord.gg/YbjCe7fVdJ">
+  <img src="assets/discord-logo.png" alt="Discord" width="50" height="50"/>
+</a>
 )
 
 
