@@ -2,7 +2,7 @@
 > - **Pronouns:** She/her.
 > - **Age:** 15.
 > - **Learning:** Node.js[javascript]
-> - **Hobbies:** I code Discord SelfBots for fun.
+> - **Hobbies:** I code Discord SelfBots for fun :P.
 
 
 ## My Projects!
