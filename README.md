@@ -7,7 +7,8 @@
 
 ## My Projects!
 
-> - ### [**Email & Webhook Spam Bot.**](https://github.com/EntomaVasilissaZeta/discord-email-and-webhook-spam-bot.) Hopefully More Soon lol.
+> - ### [**Email & Webhook Spam Bot.**](https://github.com/EntomaVasilissaZeta/discord-email-and-webhook-spam-bot.)
+> - ### [**Server Cloner.**](https://github.com/EntomaVasilissaZeta/discord-server-copier) hopefully More Soon lol.
 
 ## 🛠️ Skills
 
